@@ -1,3 +1,4 @@
 xiapeixin:
-  dev:
-    sex: action
+  sex: action
+  name: xiapeixin
+  age: 24
